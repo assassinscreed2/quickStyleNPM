@@ -1,0 +1,20 @@
+{
+  "name": "quickstyle",
+  "version": "1.0.3",
+  "description": "This package helps non-designer in implementing a quick css on images, buttons and text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ankur Singh Solanki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assassinscreed2/quickStyleNPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assassinscreed2/quickStyleNPM/issues"
+  },
+  "homepage": "https://github.com/assassinscreed2/quickStyleNPM#readme"
+}

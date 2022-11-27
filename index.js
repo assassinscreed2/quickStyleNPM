@@ -67,7 +67,7 @@ function quickButton(params){
 
 }
 
-module.exports = {
+export {
     quickButton,
     quickImage,
     quickText

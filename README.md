@@ -11,7 +11,7 @@ Then ...
 ```
 import {quickButton,
         quickImage,
-        quickText} from 'quickstyle'
+        quickText} from './node_modules/quickstyle'
 
 quickButton();                   #default values
 quickButton({color:"blue"});     #customised values
