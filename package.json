@@ -1,6 +1,6 @@
 {
   "name": "quickstyle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package helps non-designer in implementing a quick css on images, buttons and text.",
   "main": "index.js",
   "scripts": {
