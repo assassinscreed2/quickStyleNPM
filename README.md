@@ -6,6 +6,11 @@ This package helps non-designer in implementing a quick css on images, buttons a
 
 `npm i quickstyle --save`
 
+# use
+ To apply quick style to images insert class 'quickImage' inside img tag.
+ To apply quick style to buttons insert class 'quickButton' inside button tag.
+ To apply quick style to texts insert class 'quickText' inside <p>,<h1>.. tags.
+
 Then ...
 
 ```
